@@ -1,6 +1,5 @@
 # Parc Informatique Management System
 
-A modern IT Asset Management System built for enterprise helpdesk technicians and general managers.
 
 ## 🚀 Features
 
@@ -154,4 +153,3 @@ This project uses `pnpm` for package management.
 
 ---
 
-**Built with Claude Code** 🤖
